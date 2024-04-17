@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  mat-form-field{
+    margin: 3px;
+
+  }
+
+  h1{
+    margin: 20px;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  p{
+    margin: 20px;
+    font-size: 18px;
+  }
+
+  form{
+    text-align: center;
+  }
