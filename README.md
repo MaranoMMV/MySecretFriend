@@ -29,7 +29,7 @@ O projeto contou com a ajuda do Edmilson https://github.com/Edmitsu
 ![image](https://github.com/MaranoMMV/MySecretFriend/assets/77554696/c0ab5600-44a1-40b8-abb7-2b720a7f121b)
 
 ## Criar uma database no Postgresql
-* Crie uma database no Postgresql com o nome 'myband' lembrando que deve estar na porta padrão do pgAdmin (5432)
+* Crie uma database no Postgresql com o nome 'mysecretfriend' lembrando que deve estar na porta padrão do pgAdmin (5432)
 
 Todos os dados e tabelas serão geradas de forma automatica no Banco de dados.
 
@@ -64,7 +64,7 @@ Prontinho, o projeto já foi inicializado.
 * Segundo deve estar instalado o Spring Tools que pode ser utilizado tanto no Eclipse quanto no VSCode. Para baixar é pelo link: https://spring.io/tools
 * Ao instalar e baixar o projeto no github, pode utilizar o SpringTools Eclipse indo em 'File' > Import > Selecionar a pasta 'Maven' e selecionar a opção 'Existing Maven Projects'. Depois disso selecione a pasta principal, normalmente na pasta principal contem o arquivo pom.xml
 * Clicar em 'Finish' e aguarde o projeto baixar as suas dependencias.
-* Depois disso só clicar com o botão direito do mouse na classe principal ( src\main\java\com\myband\agenda\AgndaApplication.java ) e ir em 'Run as' > 9 - Spring Boot APP ( Eclipse )
+* Depois disso só clicar com o botão direito do mouse na classe principal ( src\main\java\com\myfriendsecret\myfriendsecretMyfriendsecretApplication.java ) e ir em 'Run as' > 9 - Spring Boot APP ( Eclipse )
 
 ## Campo Email do back-end
 Você deve colocar o seu username e password do google para poder enviar os emails via SMTP automaticamente pelo codigo. Para isso vá na pasta do back-end e edite src\main\resources\application.properties e coloquei:
