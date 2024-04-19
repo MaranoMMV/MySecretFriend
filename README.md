@@ -1,4 +1,13 @@
 # Projeto MySecretFriend Spring + Angular
+
+  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java8&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
+
+  
 Este projeto você consegue utiliza-lo para realizar sorteio de amigo secreto. Pode ser utilizado utilizando uma conta do gmail para enviar os emails para os participantes com os sorteados, porém é recomendado utilizar uma conta no qual nenhum dos participantes do sorteio tenha acesso para não perder a surpresa de "Pessoa A tirou a pessoa B".
 
 
@@ -11,7 +20,8 @@ Foi utilizado a logica de que uma pessoa não pode tirar ela mesma, e também n�
 Também uma pessoa deve escolher no minimo um presente que ela gostaria de receber.
 
 
-O Projeto utilizou as linguagens e framework Java, Spring, JavaScript, TypeScript
+O Projeto utilizou as linguagens e framework Java, Spring, JavaScript, TypeScript, HTML, CSS
+
 
 O projeto contou com a ajuda do Edmilson https://github.com/Edmitsu
 
